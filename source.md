@@ -1,62 +1,51 @@
 class: center, middle
 
-# 讲义题目
+# 自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 周俊杰 (1700011800@pku.edu.com)  
 
-主页: https://github.com/author
+主页: https://github.com/David-Hilbert
 
 ---
 
-## 本讲内容
+## 介绍内容
 
 ### <font color="orangered">1. 第一部分</font>
+#### &nbsp; &nbsp; 1.1 我的经历
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
 
 ### 2. 第二部分
+#### &nbsp; &nbsp; 1.2 我的爱好
 
 ### 3. 第三部分
-
+#### &nbsp; &nbsp; 1.3 我的追求
 ---
 
-## 第一部分
+## 经历
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
+```
+
+家乡:四川成都
+
+高中:成都市第七中学
+
+
 ```
 
 ---
 
-## 插图
-
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
-
----
-
-## `\(\LaTeX{}\)` in remark
+## 爱好
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
+<img src="https://gss0.bdstatic.com/-4o3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=9b5cee9dcafcc3cea0cdc161f32cbded/279759ee3d6d55fb6eb714996f224f4a20a4dd18.jpg" width=300 style="margin: 0px 80px">
 
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+<img src="https://img3.doubanio.com/lpic/s4631875.jpg" width=300 style="margin: 0px 80px">
 
 ---
 
-class: center, middle
-
+## 追求
+考研基础数学方向，成为一名数学工作者。
 # 谢谢
